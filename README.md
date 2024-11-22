@@ -1,7 +1,7 @@
 # Real-Time Chat Application
 
 A real-time chat application built using React and Firebase. This application allows users to chat in real time, supporting multiple rooms and user authentication.
-
+ 
 ## Features
 
 - **Real-Time Messaging**: Instant messaging between users.
