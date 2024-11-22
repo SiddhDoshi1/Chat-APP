@@ -22,7 +22,6 @@ const Register = () => {
     try{
       
       const res= await createUserWithEmailAndPassword(auth, email, password);
-      // console.log(res);
       const date = new Date().getTime();
       const storageRef = ref(storage, `${displayName+date}`);
 
